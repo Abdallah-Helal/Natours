@@ -24,7 +24,7 @@
 </p>
 
 ## Deployed Version
-Live demo (Feel free to visit) 👉 : https://lgope-natours.onrender.com/
+Live demo (Feel free to visit) 👉 : 
 
 
 ## Key Features
