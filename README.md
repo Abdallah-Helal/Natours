@@ -132,18 +132,6 @@ heroku apps:rename natours-users
 * [Heroku](https://www.heroku.com/) - Cloud platform
 
 
-
-## To-do
-
-* Review and rating
-  - Allow user to add a review directly at the website after they have taken a tour
-* Booking
-  - Prevent duplicate bookings after user has booked that exact tour, implement favourite tours
-* Advanced authentication features
-  - Signup, confirm user email, login with refresh token, two-factor authentication
-* And More ! There's always room for improvement!
-
-
 ## Installation
 You can fork the app or you can git-clone the app into your local machine. Once done that, please install all the
 dependencies by running
